@@ -1,4 +1,6 @@
 # Web Scraping IMDB (2024)
+
+![](./images/imdb_screenshot.png)
 This Python project scrapes movie data from IMDb for feature films released between May 1, 2024, and May 15, 2024 (You can change the date based on the filtering on the webpage). It collects data such as IMDB IDs, movie names, links ofnthe movies, release years, durations, IMDb ratings, vote counts, Metascores, and summaries, and compiles them into a structured format.
 
 This script will:
